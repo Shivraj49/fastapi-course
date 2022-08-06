@@ -28,6 +28,7 @@ Mako==1.1.5
 MarkupSafe==2.0.1
 orjson==3.6.1
 passlib==1.7.4
+pywin32
 promise==2.3
 psycopg2==2.9.1
 pyasn1==0.4.8
